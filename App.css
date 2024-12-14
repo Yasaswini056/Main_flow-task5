@@ -60,8 +60,8 @@ nav ul li a {
 
 /* Courses Section */
 .courses {
-  padding: 50px 20px;
-  background-color: #fff;
+  padding: 150px 20px;
+  background-color: #fde4e4;
   text-align: center;
 }
 
@@ -125,7 +125,7 @@ nav ul li a {
 /* Course Details */
 .course-details {
   padding: 50px 20px;
-  background-color: #fff;
+  background-color: #fde4e4;
   text-align: center;
 }
 
